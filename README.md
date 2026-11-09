@@ -1,4 +1,5 @@
 # Veles
+<img width="1258" height="799" alt="veles-home" src="https://github.com/user-attachments/assets/2b20ab2f-04b9-431e-ad58-70cbe37fe015" />
 
 Голосовой ассистент для Windows: команды голосом, чат с нейросетью, управление компьютером и музыкой, заметки, напоминания и таймеры.
 
