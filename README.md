@@ -14,7 +14,7 @@
 ## Скачать
 
 - [Скачать установщик (VelesSetup.exe)](https://github.com/vbonqy-dev/veles-updates/releases/latest/download/VelesSetup.exe)
-- [Скачать в архиве ZIP (VelesAI.zip)](https://github.com/vbonqy-dev/veles-updates/releases/latest/download/VelesAI.zip) — если браузер не даёт скачать .exe. В архиве установщик и инструкции.
+- [Скачать в архиве ZIP (VelesAI.zip)](https://github.com/vbonqy-dev/veles-updates/releases/latest/download/VelesAI.0.0.1-beta-c.zip) — если браузер не даёт скачать .exe. В архиве установщик и инструкции.
 
 Все версии и список изменений — на странице [Releases](https://github.com/vbonqy-dev/veles-updates/releases).
 
